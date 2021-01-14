@@ -1,0 +1,1 @@
+{"Nodes": [{"id": 0, "pos": null}, {"id": 1, "pos": null}, {"id": 3, "pos": null}, {"id": 4, "pos": null}], "Edges": [{"src": 1, "dest": 0, "w": 1.1}, {"src": 0, "dest": 1, "w": 1}, {"src": 0, "dest": 1, "w": 1}, {"src": 1, "dest": 0, "w": 1.1}, {"src": 1, "dest": 3, "w": 10}, {"src": 1, "dest": 3, "w": 10}]}
